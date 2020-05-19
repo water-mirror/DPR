@@ -10,7 +10,7 @@ Welcome to cite our work (bib):
 placeholder
 ```
 
-A pre-trained model is provided. Please unzip the "validation_set.zip" and "data.zip" before testing the model.
+A pre-trained model is provided. Please unzip "validation_set.zip" and "data.zip" before testing the model.
 
 Example:
 ```
