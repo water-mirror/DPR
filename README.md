@@ -1,5 +1,4 @@
-# DPR
-Dynamic Partial Removal
+# Dynamic Partial Removal
 
 This project provides the code to replicate the experiments in the paper:
 
