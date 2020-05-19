@@ -10,7 +10,7 @@ Welcome to cite our work (bib):
 placeholder
 ```
 
-A pre-trained model is provided. Please unzip "validation_set.zip" and "data.zip" before testing the model.
+Run "train.py" to train the model. A pre-trained model is provided under "model/ppo_1/ppo.pth". "test.ipynb" provides the test code for solving benchmark problems (Solomon benchmark and Gehring & Homberger benchmark). Please unzip "data.zip" before testing the model. Our synthetic dataset are provided in "validation_set.zip".
 
 Example:
 ```
