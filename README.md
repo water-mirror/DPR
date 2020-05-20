@@ -2,7 +2,7 @@
 
 This project provides the code to replicate the experiments in the paper:
 
-> <cite> Dynamic Partial Removal: A Neural Network Heuristic for Large Neighborhood Search[arxiv link](https://arxiv.org/pdf/2005.09330.pdf) </cite>
+> <cite> Dynamic Partial Removal: A Neural Network Heuristic for Large Neighborhood Search [arxiv link](https://arxiv.org/pdf/2005.09330.pdf) </cite>
 
 The proposed approach introduces a novel Large-Neighborhood-Search Heuristic, namely Dynamic Partial Removal (DPR), for Combinatorial Optimization problems. This heuristic is efficient due to spatial and temporal exploration. A neural network architecture - Hierarchical Recurrent Graph Convolutional Network (HRGCN) - is introduced to perform the DPR heuristic, and this network is trained by reinforcement learning approach (PPO).
 
